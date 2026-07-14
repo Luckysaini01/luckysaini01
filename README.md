@@ -122,7 +122,7 @@ const lucky = {
 
 <p align="center">
 
-<a href="[https://www.linkedin.com/in/lucky-saini-ba1b99407/]">
+<a href="(https://www.linkedin.com/in/lucky-saini-ba1b99407/)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 

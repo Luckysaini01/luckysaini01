@@ -2,9 +2,14 @@
 
 # Hi 👋 I'm Lucky
 
-<img src="./assets/setup.gif" width="100%" />
+<img src="./assets/setup.gif" width="100%">
 
-### 🚀 Full Stack Developer | Open Source Enthusiast | Gamer
+## 💻 Full Stack Developer
+
+Welcome to my GitHub profile!<img width="1920" height="1080" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/cdd81616-b7cf-4621-b634-00e5f87486ec" />
+
+
+</div>
 
 <p>
 <a href="https://github.com/Luckysaini01">
@@ -17,7 +22,21 @@
 ---
 
 # 👨‍💻 About Me
+Hi, I'm **Lucky**.
 
+I'm currently learning  HTML ,CSS **JavaScript** and building projects to strengthen my programming skills. My goal is to become a **Full Stack Developer** by mastering React, Node.js, and modern web technologies.
+
+I enjoy solving coding problems and learning something new every day.
+
+
+
+
+
+
+
+
+
+learning...
 ```javascript
 const lucky = {
     location: "India",

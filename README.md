@@ -4,7 +4,7 @@
 
 <img src="./assets/setup.gif" width="100%">
 
-## 💻 Full Stack Developer
+## 💻 Aspiring Full Stack Developer
 
 Welcome to my GitHub profile!<img width="1920" height="1080" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/cdd81616-b7cf-4621-b634-00e5f87486ec" />
 
@@ -36,7 +36,7 @@ I enjoy solving coding problems and learning something new every day.
 
 
 
-learning...
+Currently learning...
 ```javascript
 const lucky = {
     location: "India",
@@ -70,7 +70,7 @@ const lucky = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,mongodb,postgres,supabase,firebase,git,github,vscode,figma,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,java,mongodb,supabase,firebase,git,github,vscode" />
 
 </p>
 
@@ -80,9 +80,9 @@ const lucky = {
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Luckysaini01&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Luckysaini01&theme=tokyonight"/>
 
 </p>
 
@@ -122,7 +122,7 @@ const lucky = {
 
 <p align="center">
 
-<a href="[https://linkedin.com/in/YOUR_](https://www.linkedin.com/in/lucky-saini-ba1b99407/)">
+<a href="[https://www.linkedin.com/in/lucky-saini-ba1b99407/]">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 

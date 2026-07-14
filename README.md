@@ -7,8 +7,8 @@
 ### 🚀 Full Stack Developer | Open Source Enthusiast | Gamer
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge"/>
+<a href="https://github.com/Luckysaini01">
+<img src="https://komarev.com/ghpvc/?username=Luckysaini01&color=blueviolet&style=for-the-badge"/>
 </a>
 </p>
 
@@ -73,7 +73,7 @@ const lucky = {
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luckysaini01&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -83,7 +83,7 @@ const lucky = {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Luckysaini01&theme=tokyonight&row=1&column=6"/>
 
 </p>
 
@@ -93,7 +93,7 @@ const lucky = {
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luckysaini01&theme=tokyo-night"/>
 
 </p>
 
@@ -103,7 +103,7 @@ const lucky = {
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_](https://www.linkedin.com/in/lucky-saini-ba1b99407/)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -111,7 +111,7 @@ const lucky = {
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
-<a href="mailto:youremail@example.com">
+<a href="luckysaini09860986@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 

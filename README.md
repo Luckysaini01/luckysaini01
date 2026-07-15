@@ -1,10 +1,20 @@
 <div align="center">
 
-# Hi 👋 I'm Lucky
+# Hi 👋, I'm Lucky
 
-<img src="./assets/setup.gif" width="100%">
+🎓 I'm a Second-Year Computer Science Student.
 
-## 💻 Aspiring Full Stack Developer
+💻 Passionate about Web Development and Software Development. I enjoy building responsive websites and learning modern technologies.
+
+🌱 Currently Learning:
+- HTML, CSS & JavaScript
+- React.js
+- Node.js
+- Python
+
+🎯 Goal:
+To become a skilled Full Stack Developer and build impactful real-world projects.
+✨ Always learning, always building.
 
 Welcome to my GitHub profile!<img width="1920" height="1080" alt="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9" src="https://github.com/user-attachments/assets/cdd81616-b7cf-4621-b634-00e5f87486ec" />
 
